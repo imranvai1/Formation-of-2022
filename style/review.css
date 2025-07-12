@@ -1,0 +1,13 @@
+.review{
+    width: 100px;
+    align-items: center;
+    display: flex;
+}
+.review-slot{
+    width: 10px;
+    margin: 0px;
+}
+img{
+    border-radius: 50%;
+}
+
