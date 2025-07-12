@@ -96,13 +96,14 @@ nav ul a{
     background-color: #4E47FF;
     color: white;
     align-items: center;
-    width: 100%;
+    width: 100px;
     border-radius: 7px;
     padding: 12px 36px;
     border: none;
     margin-top: none;
     font-weight: 600;
-.bold-title{
+}
+.Bold-title{
     font-size: 65px;
     font-weight: bold;
     text-align: center;
