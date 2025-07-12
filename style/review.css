@@ -1,13 +1,36 @@
-.review{
-    width: 100px;
-    align-items: center;
+.main-review{
     display: flex;
+    justify-content: center;
+}
+.liner{
+    font-size: 42px;
+    text-align: center;
+}
+.review-section{
+    width: 300px;
+    margin: 50px;
+
+}
+.review{
+    width: 300px;
+    align-items: center;
+    border: 0px solid black;
+    display: flex;
+    margin: 0px;
 }
 .review-slot{
-    width: 10px;
-    margin: 0px;
+
 }
 img{
     border-radius: 50%;
+    padding: none;
 }
 
+ul li{
+    list-style: none;
+    color: rgba(117, 117, 117, 1);
+}
+
+li{
+    font-size: x-small;
+}
