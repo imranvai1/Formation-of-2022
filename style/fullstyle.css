@@ -1,0 +1,124 @@
+/* font  */
+
+.open-sans-inter{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.open-sans-raleway{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+.raleway-new {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+body{
+    margin: 0;
+}
+
+
+
+
+/* header */
+.header{
+    height: 698px;
+    width: 1440px;
+    background-image: url(/Assets/Hero-bg.png);
+    
+}
+
+nav{
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+.nav-title{
+    font-size: 34px;
+}
+.text-align{
+    text-align: center;
+}
+nav ul{
+    align-items: center;
+    
+}
+nav ul li{
+    list-style: none;
+    align-items: center;
+}
+
+
+nav ul a{
+    text-decoration: none;
+}
+.btn-primary{
+    font-size: 16px;
+    background-color: #4E47FF;
+    color: white;
+    align-items: center;
+    border-radius: 7px;
+    padding: 12px 36px;
+    border: 1px solid black;
+    font-weight: 600;
+    box-shadow: 0px 5px 10px 0px #8a8585;
+}
+.btn-primary-noshadow{
+    font-size: 16px;
+    background-color: #4E47FF;
+    color: white;
+    align-items: center;
+    border-radius: 7px;
+    padding: 12px 36px;
+    border: none;
+    margin-top: 37px 365.5px 152px;
+    font-weight: 600;
+    /* box-shadow: 0px 5px 10px 0px #8a8585; */
+}
+.bold-title{
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    margin: 158px 267.5px 152px;
+    
+}
+
+main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.action-title{
+    font-size: 42px;
+}
+.action-description{
+    font-size: 24px;
+    color: #252432;
+    font-style: slim;
+}
+.section-marg{
+    margin: 116px 159px 116px 141px;
+    display: flex;
+    justify-content: space-between;
+}
+action-box{
+    margin: 62.5px 623px 62.5px 0px;
+}
+.act-img{
+    border-radius: 40px;
+}
