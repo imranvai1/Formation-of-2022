@@ -122,3 +122,71 @@ action-box{
 .act-img{
     border-radius: 40px;
 }
+
+/* .section{
+    background-color: rgba(78, 71, 255, 0.1);
+    border-radius: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 1140px;
+   height: 306px;
+   margin: 0px;
+
+
+.section .container{
+    position: absolute;
+    top: 60%; */
+
+}
+
+/* user  */
+.Data{
+    margin-bottom: 137px;
+}
+    .data-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .data-card {
+      background-color: hsl(233, 82%, 94%);
+      border-radius: 12px;
+      padding: 30px 40px;
+      margin-left: 30px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      width: 1140px;
+      height: 309px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+      flex-wrap: wrap;
+    }
+
+    .data-title {
+      width: 100%;
+      text-align: center;
+      font-size: 38px;
+      font-weight: 600;
+      color: #1d1d1d;
+    }
+
+    .data-box {
+      text-align: center;
+      margin: 10px 20px;
+    }
+
+    .data-number {
+      font-size: 80px;
+      font-weight: bold;
+      color: #4E47FF;
+    }
+
+    .data-label {
+      font-size: 14px;
+      margin-top: 5px;
+      color: #555;
+    }
