@@ -88,7 +88,8 @@ footer{
       margin-bottom: 30px;
     }
 
-    .nav {box: 2px;
+    .nav {
+        box: 2px solid black;
       display: flex;
       gap: 40px;
       font-size: 14px;
