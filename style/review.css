@@ -1,6 +1,7 @@
 .main-review{
     display: flex;
     justify-content: center;
+    margin-bottom: 92px;
 }
 .liner{
     font-size: 42px;
@@ -33,4 +34,29 @@ ul li{
 
 li{
     font-size: x-small;
+}
+footer{
+    padding: 92px 140px;
+    display: flex;
+    gap: 100px;
+    background-color: aliceblue;
+}
+.footer-column{
+    width: 50%;
+}
+.get-touch{
+    font-size: 97px;
+    font-weight: bold;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    height: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    display: block;
+    width: 100%;
+    padding: 5px 10px;
+    margin-bottom: 32px;
+    border: none;
 }
