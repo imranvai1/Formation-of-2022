@@ -135,7 +135,8 @@ footer{
   background-color: #555;
   color: #777;
   flex-wrap: wrap;
-  justify-content: center;}
+  justify-content: center;
+}
 
   .footer-content .nav a{
     text-decoration: none;
